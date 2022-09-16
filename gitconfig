@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yg86@cornell.edu
+	name = Lily Gao
